@@ -1,0 +1,61 @@
+.title h3 {
+    margin-left: 50px;
+}
+.fromdn {
+    width: 600px;
+    padding-left: 360px;
+}
+.td {
+    padding-bottom: 15px;
+}
+.banner { 
+    background-image:url(../images/admin_banner-6.png);
+    background-repeat:no-repeat; 
+    height:178px;
+}
+.login {
+    height: 30px;
+    margin-left: 700px; 
+    font-size: 14px; 
+    font-weight: bold;
+    color: white; 
+    padding-top: 20px;
+}
+.login a { 
+    padding: 5px;
+}
+.img {
+    width: 480px;
+    border-bottom: 1px solid #999;
+    background-color: #fff8f4;
+    border-right: 1px solid #999; 
+    float: left;
+    text-align: center
+}
+.gia { 
+    width: 479px; 
+    height: 300px;
+    border-bottom: 1px solid #999;
+    background-color: #fff8f4;
+    float: left;
+    margin-bottom: 20px;
+}
+section .content { 
+    margin: initial;
+}
+.gt {
+    padding: 10px;
+}
+.gt p {
+    padding-bottom: 20px;
+}
+.right {
+    width: 980px;
+    margin-left: 2px;
+    float: left
+}
+
+
+
+
+
